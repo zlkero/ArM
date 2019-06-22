@@ -1,14 +1,14 @@
 /*
 Theme Owned and Made by Kero#1623
   
-Background Img: https://images7.alphacoders.com/359/thumb-1920-359582.jpg 
+Background Img: https://wallpaperplay.com/walls/full/e/8/a/135827.jpg 
 Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
 
 The 2 items above are not owned by me, They go to there respected owners
 */
 
 :root{
-    --background: url('https://images7.alphacoders.com/359/thumb-1920-359582.jpg');
+    --background: url('https://wallpaperplay.com/walls/full/e/8/a/135827.jpg');
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
 	--transparency-2: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
